@@ -1,0 +1,7 @@
+
+    table,th,td,tr{
+        border:2px black solid;
+        border-collapse: collapse;
+        background-color: rgb(253, 145, 21);
+        border-color: aqua;
+    }
